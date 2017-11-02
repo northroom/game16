@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3562099183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 415e64d78ef134167bb586f028e13fd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GUIPack-Clean&Minimalist/Sprites/Buttons/Basic/Filled/PNG/Green-Button.png
+Dependencies: []

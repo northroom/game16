@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1223715909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abe5308c31a5bc2edec76caf5e0127bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 11dbcdd08f3f03114d98bf1d6983e744
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/UI/UIGameMain.prefab
+Dependencies:
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/b976c1c429fe083b53a005d5602a0e5a4d980742.ab
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/0861fc9b734b6a7071978a23836d36f0e218e488.ab
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/866406b1d5da9225aaa3c29ecc8542e44e2ff30b.ab
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/9accf01a2eecdd802b1f0442f8f117b7bf5faee6.ab
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/3e40f537d08eb33e43133f16c8752b768aac70eb.ab
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/b780422274e0bd86fcf1d1ca793299721595cc23.ab
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/c5e8135f32bfcbfccfeeb2c55487a7db7c844bea.ab
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/b74a74be9ab44ef9b47c8507eb0d40123b31ab63.ab

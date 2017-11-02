@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 551122199
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e1f9fc3c59de11374b61ede9f76c178
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a975adcaa10ca457281df1c382473597
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/GamePlay/Piece3.prefab
+Dependencies:
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/9accf01a2eecdd802b1f0442f8f117b7bf5faee6.ab

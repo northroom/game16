@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2496422296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c009f708a9d26659378eba11d8776330
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1e9d3bf2af3e895c42799b814853128
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Font/fangzhengheiti.ttf
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4052561221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6eb102176bbfd0fb030773c6617c8c0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e1bbe3dd7115245a463966cddb25798
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8347f75bbf20473292de676504ad7398, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/UI/UILobby.prefab
+Dependencies:
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/c5e8135f32bfcbfccfeeb2c55487a7db7c844bea.ab
+- /Users/cuixin/Desktop/work/game/game16/Unity/Assets/StreamingAssets/AssetBundles/b74a74be9ab44ef9b47c8507eb0d40123b31ab63.ab

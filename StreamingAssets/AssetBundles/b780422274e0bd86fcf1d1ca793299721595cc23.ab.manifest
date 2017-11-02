@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2906830837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b784a1429edd4be13f022c06cc2e2e95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Sprite/Piece5.png
+Dependencies: []
